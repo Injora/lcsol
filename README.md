@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Injora/lcsol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/Injora/lcsol/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Injora/lcsol/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/Injora/lcsol/tree/master/0066-plus-one) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Injora/lcsol/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
@@ -84,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Injora/lcsol/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Injora/lcsol/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
